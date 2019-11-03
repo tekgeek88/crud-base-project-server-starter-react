@@ -2,7 +2,7 @@
 
 ## What it is
 
-The Streamy server is a simple Node.js server setup with the json-server module installed which allows us to use a json object as a database to recieve all of the CRUD operations a traditional API server would have.
+The Streamy server is a simple Node.js server setup with the json-server module installed which allows us to use a json object as a database to receive all of the CRUD operations a traditional API server would have.
 
 ## Installation
 
@@ -17,8 +17,8 @@ The Streamy server is a simple Node.js server setup with the json-server module 
 ### A typical top-level directory layout
 
     .
-    ├── client              # This project
-    └── server              # The server to recieve 
+    ├── client              # The Streamy client
+    └── server              # This project
 > Mak sure to download both projects and use npm start on the server before starting the client
 
 ## CRUD Operations

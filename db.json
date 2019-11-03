@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Coco Does it Live",
+      "description": "Coco is doing it live right now!",
+      "id": 1
+    },
+    {
+      "title": "Another stream",
+      "description": "Some other stream",
+      "id": 2
+    },
+    {
+      "title": "Streaming Component Reuse",
+      "description": "This stream is about component reuse and submission",
+      "id": 4
+    },
+    {
+      "title": "Another one I created",
+      "description": "And another one",
+      "userId": "113214090183998348363",
+      "id": 5
+    }
+  ]
+}
